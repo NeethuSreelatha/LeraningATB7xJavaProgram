@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27a273b1-7789-4886-82bc-c6529c0a0f6b" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeraningATB7xJavaProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
+    <list default="true" id="27a273b1-7789-4886-82bc-c6529c0a0f6b" name="Changes" comment="All files are added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/$Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/_Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +37,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2c5c4685-57e3-4364-a2b5-8082a5d3ea94" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2j62sJHeF2ZWcXolWLkBUhxoHgv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,15 +56,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.$Lab010.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application._Lab009.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab002">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab001" />
+  <component name="RunManager" selected="Application.Lab014">
+    <configuration name="$Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.$Lab010" />
       <module name="LeraningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +90,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab002" />
+    <configuration name="Lab011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab011" />
+      <module name="LeraningATB7xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab012" />
+      <module name="LeraningATB7xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab013" />
+      <module name="LeraningATB7xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab014" />
       <module name="LeraningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab002" />
-        <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Lab014" />
+        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.Lab012" />
+        <item itemvalue="Application.Lab011" />
+        <item itemvalue="Application.$Lab010" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +161,15 @@
       <option name="presentableId" value="Default" />
       <updated>1720693410702</updated>
     </task>
+    <task id="LOCAL-00001" summary="All files are added">
+      <option name="closed" value="true" />
+      <created>1720697541123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720697541123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +185,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="All files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files are added" />
   </component>
 </project>
